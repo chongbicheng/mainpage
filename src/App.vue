@@ -111,14 +111,14 @@ export default {
 	min-height: 100vh;
 	flex-direction: column;
 	#app-wrap {
-    position: relative;
+		position: relative;
 		min-height: 100vh;
 		display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+		flex-direction: column;
+		justify-content: space-between;
 	}
 	.site-content {
-    position: relative;
+    	position: relative;
 		flex: 1;
 	}
 	a {

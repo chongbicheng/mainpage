@@ -6,7 +6,7 @@ import 'bootstrap'
 import $ from 'jquery'
 import { Message,LoadingBar,Spin,Card,Input,Select,Option,Tag,Button,Upload} from 'iview'
 import 'iview/dist/styles/iview.css'
-import '../static/live2dw/lib/L2Dwidget.min.js'
+// import '../static/live2dw/lib/L2Dwidget.min.js'
 import animated from "animate.css"
 import vueToTop from 'vue-totop'
 import axios from 'axios'
